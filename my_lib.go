@@ -10,3 +10,7 @@ func PrintHello() {
     fmt.Println("hello world!")
 }
 
+
+func NewHello() {
+    fmt.Println("new hello")
+}
